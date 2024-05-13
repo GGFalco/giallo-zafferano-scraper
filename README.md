@@ -12,7 +12,7 @@ API_URL="your_api_endpoint"
 * La struttura dell'endpoint sarà questa: `https://www.API_URL/<file>/<operation>/<sql_table_name>`. Nel mio caso:
 
 ```py
-ricette.php/insert/ricette_rating
+"https://www.API_URL/ricette.php/insert/ricette_rating"
 ```
 ---
 
